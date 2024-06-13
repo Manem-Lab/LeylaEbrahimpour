@@ -1,9 +1,22 @@
-## Name
-Oncotech-radiomics Tool comparison
+# Oncotech-Radiomics Tool Comparison
+
+## Overview
+
+This project focuses on extracting radiomic features from CT annotated images of 164 patients provided in an h5 file by Imagia Company. The goal is to compare different radiomic extraction tools and methods.
 
 ## Description
-In this project, we extract the radiomic features from CT annotated images of 164 patients provided in an h5 file by Imagia Company. The read_h5.py script is to read the h5 file and save the patient_ID, the study_ID, and the series_ID as an excel file in case needed. The subgroups of volume.data and nodulelist.data repersent the CT images and annotations for each patient. The rads_extraction_h5.py is to read the h5 file, to extract radiomics for 164 studies, and to save the results in an excel file.
 
-To extract radiomics a parameter file is needed to customize the features before extraction. An example is provided in Params.yaml file. The path of this file should be indicated in the rads_extraction_h5.py script.
+### Data
 
+- **Source**: The data consists of CT images and annotations for 164 patients, provided in an h5 file by Imagia Company.
+- **Structure**: The `volume.data` and `nodulelist.data` subgroups contain the CT images and annotations for each patient.
+
+### Scripts
+
+- **read_h5.py**: 
+  - Reads the h5 file and saves the patient ID, study ID, and series ID as an Excel file for easy reference.
+
+- **rads_extraction_h5.py**:
+  - Reads the h5 file, extracts radiomic features for the 164 studies, and saves the results in an Excel file.
+  - Requires a parameter file to customize the features before extraction. An example parameter file is provided in `Params.yaml`.
 
