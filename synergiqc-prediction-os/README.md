@@ -1,11 +1,33 @@
 # SynergiQc-OS Prediction
 
-This project is to predict Overal Surival (OS) for early stage (stage 1 and 2) patients of SynergiQc data.
+## Overview
 
-data: contains different training and test datasets based on the ROI from which radiomics have been extracted (Tumor or Non Tumor),harmonization by the method in https://doi.org/10.3389/fonc.2023.1196414, and applying feature readuction methods( Lasso or omitting multicollinearity) 
+This project aims to predict Overall Survival (OS) for early-stage (stage 1 and 2) patients using the SynergiQc dataset.
 
-data_combat: contains radiomic features harmonized by Nested-ComBat harmonization method: https://rdcu.be/dKFOE
+## Data
 
-Src: contains CRchu codes which are the initial scripts. Radiomics extracted from Tumor (T) or Non-Tumor (N) ROIs used as features in the ML pipeline. Also there are codes using radiomics+clinical data as features (adding clinical data after feature selection methods). The codes starting with data_set are being used to creat training and test cohorts. In case feature reduction methods (Lasso or correlation) have been applied, the splitting is done after reduction by Lasso. 
+### Structure
 
-results-plots: heatmaps and bar plots of C-index for the best models.
+- **Training and Test Datasets**: 
+  - Based on the ROI from which radiomics have been extracted (Tumor or Non-Tumor).
+  - Harmonized by the method detailed in [Frontiers in Oncology](https://doi.org/10.3389/fonc.2023.1196414).
+  - Feature reduction methods applied (Lasso or omitting multicollinearity).
+
+- **data_combat**: 
+  - Contains radiomic features harmonized using the Nested-ComBat harmonization method as detailed in [Scientific Reports](https://rdcu.be/dKFOE).
+
+## Scripts
+
+### Directory: Src
+
+- **CRchu Codes**: Initial scripts for the project.
+- **Radiomics Extraction**: 
+  - Extracted from Tumor (T) or Non-Tumor (N) ROIs used as features in the ML pipeline.
+  - Codes using radiomics+clinical data as features (clinical data added after feature selection).
+- **Dataset Creation**: 
+  - Scripts prefixed with `data_set` are used to create training and test cohorts.
+  - For feature reduction methods (Lasso or correlation), the splitting is done post-reduction by Lasso.
+
+### Directory: results-plots
+
+- Contains heatmaps and bar plots of C-index for the best models.
