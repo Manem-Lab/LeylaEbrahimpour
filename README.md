@@ -16,15 +16,16 @@ The data used for these projects include:
 
 1. **SynergiQc Data:**
    - CTs and segmentations available on the [Paradim platform](https://platform.paradim.science) (access required).
-   - Clinical data uploaded to the corresponding project folders.
+   - Clinical data uploaded to the synergiqc-radiomics_extraction/data folder.
+   - Extracted radiomics from Tumor and Non-Tumor regions on Valeria due to the huge size
 
 2. **NLST Data:**
    - Publicly available CTs and clinical data from the National Lung Screening Trial (NLST).
-   - Segmentations done from earlier studies.
-   - Clinical data, patient IDs, and segmentations uploaded to the corresponding project folders.
+   - Segmentations done from earlier studies available in nlst-cancer-prediction/data/NLST-masks.zip
+   - Clinical data, patient IDs, and labels uploaded to the corresponding project folders.
 
 3. **Oncotech Project:**
-   - CTs and segmentations in an HD5 format available on Valeria.
+   - CTs and segmentations in an HD5 format are available on Valeria.
 
 ## Projects Structure
 
