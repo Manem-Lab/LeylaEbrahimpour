@@ -1,7 +1,24 @@
 # SynergiQc-PFS Prediction
 
-This project is to predict Progression Free Surival (PFS) for early stage (stage 1 and 2) patients of SynergiQc data. 
+## Overview
 
-data: contains radiomic features for training and test datasets harmonized by the method in https://doi.org/10.3389/fonc.2023.1196414.
+This project aims to predict Progression-Free Survival (PFS) for early-stage (stage 1 and 2) patients using the SynergiQc dataset.
 
-Src: contains CRchu codes which are the initial scripts. Radiomics extracted from Tumor (T) or Non-Tumor (N) ROIs used as features in the ML pipeline. Also there are codes using radiomics+clinical data as features (adding clinical data after feature selection methods). The codes starting with data_set are being used to creat training and test cohorts. In case Lasso is applied, the splitting is done after reduction by Lasso.
+## Data
+
+### Structure
+
+- **Training and Test Datasets**: 
+  - Contains radiomic features harmonized by the method detailed in [Frontiers in Oncology](https://doi.org/10.3389/fonc.2023.1196414).
+
+## Scripts
+
+### Directory: Src
+
+- **CRchu Codes**: Initial scripts for the project.
+- **Radiomics Extraction**: 
+  - Extracted from Tumor (T) or Non-Tumor (N) ROIs used as features in the ML pipeline.
+  - Codes using radiomics+clinical data as features (clinical data added after feature selection).
+- **Dataset Creation**: 
+  - Scripts prefixed with `data_set` are used to create training and test cohorts.
+  - For feature reduction methods (Lasso), the splitting is done post-reduction by Lasso.
