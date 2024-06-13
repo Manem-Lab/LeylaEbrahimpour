@@ -1,0 +1,16 @@
+Shape of X_test after Lasso =  (208, 23)
+Shape of X_train after Lasso =  (254, 23)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 23)
+---------------------------------------- SVC --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for SVC with f_test: 18 features with AUC score in CV: 0.7556743909685087 +- 0.054510475556428246 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.6506265664160402
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for SVC with mutual_info: 20 features with AUC score in CV: 0.7635175282234106 +- 0.013566898409408529 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.6280701754385966
+---------------------------------------- reliefF --------------------------------------------------

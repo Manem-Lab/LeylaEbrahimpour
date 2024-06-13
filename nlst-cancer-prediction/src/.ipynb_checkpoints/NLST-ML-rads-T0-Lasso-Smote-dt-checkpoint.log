@@ -1,0 +1,10 @@
+Shape of X_test after Lasso =  (208, 16)
+Shape of X_train after Lasso =  (254, 16)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 16)
+---------------------------------------- DecisionTree --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------

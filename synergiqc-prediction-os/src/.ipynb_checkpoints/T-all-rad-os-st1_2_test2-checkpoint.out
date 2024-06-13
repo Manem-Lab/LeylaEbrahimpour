@@ -1,0 +1,13 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+  File "/home/ulaval.ca/lesee/projects/Project2-synergiqc/OS/src/ML-T-OS-all-test2.py", line 377
+    'c_index_validation': c_index_values_validation,
+    ^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax

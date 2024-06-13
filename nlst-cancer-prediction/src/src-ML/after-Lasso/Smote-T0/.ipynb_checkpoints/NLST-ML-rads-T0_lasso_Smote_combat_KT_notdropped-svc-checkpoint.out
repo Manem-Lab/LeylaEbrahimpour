@@ -1,0 +1,13 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+Traceback (most recent call last):
+  File "/home/ulaval.ca/lesee/projects/Project-NLST/src/src-rest/./Smote-T0/ML-Smote-T0-SVC.py", line 252, in <module>
+    param_svc
+NameError: name 'param_svc' is not defined. Did you mean: 'param_xgb'?

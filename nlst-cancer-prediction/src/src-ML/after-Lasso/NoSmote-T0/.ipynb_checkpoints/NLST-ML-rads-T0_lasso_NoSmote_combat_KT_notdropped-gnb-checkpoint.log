@@ -1,0 +1,34 @@
+Shape of X_test after Lasso =  (208, 23)
+Shape of X_train after Lasso =  (254, 23)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 23)
+---------------------------------------- GaussianNB --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for GaussianNB with f_test: 22 features with AUC score in CV: 0.7346702317290552 +- 0.03685746953150854 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6335338345864662
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for GaussianNB with mutual_info: 21 features with AUC score in CV: 0.746524064171123 +- 0.02483002610926577 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6477192982456139
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for GaussianNB with reliefF: 22 features with AUC score in CV: 0.7318181818181818 +- 0.0359561330325984 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6372932330827067
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for GaussianNB with surf: 10 features with AUC score in CV: 0.7399584076054666 +- 0.04219259662565148 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6555889724310777
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for GaussianNB with multisurf: 19 features with AUC score in CV: 0.729025549613785 +- 0.05104344120050427 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6343859649122807
+           Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                    ...                      
+GaussianNB           f_test          22  ...  0.734670    0.036857
+GaussianNB      mutual_info          21  ...  0.746524    0.024830
+GaussianNB          reliefF          22  ...  0.731818    0.035956
+GaussianNB             surf          10  ...  0.739958    0.042193
+GaussianNB        multisurf          19  ...  0.729026    0.051043
+
+[5 rows x 14 columns]
+Execution time: 2151.185015439987 seconds

@@ -1,0 +1,66 @@
+Shape of X_test after Lasso =  (208, 35)
+Shape of X_train after Lasso =  (253, 35)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  167
+number of positive_test =  75
+number of negative_test =  133
+range(3, 35)
+---------------------------------------- RandomForest --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for RandomForestClassifier with f_test: 30 features with AUC score in CV: 0.716369578134284 +- 0.0483527079531231 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.6302756892230577
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for RandomForestClassifier with mutual_info: 4 features with AUC score in CV: 0.7305704099821747 +- 0.08787788395365509 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.6456641604010026
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for RandomForestClassifier with reliefF: 11 features with AUC score in CV: 0.7158645276292337 +- 0.044150134781938584 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.6273684210526315
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for RandomForestClassifier with surf: 3 features with AUC score in CV: 0.7133095662507428 +- 0.05526285928659042 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.6231077694235589
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for RandomForestClassifier with multisurf: 3 features with AUC score in CV: 0.7183600713012479 +- 0.05515414798057827 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.6231077694235589
+                       Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                                ...                      
+RandomForestClassifier           f_test          30  ...  0.716370    0.048353
+RandomForestClassifier      mutual_info           4  ...  0.730570    0.087878
+RandomForestClassifier          reliefF          11  ...  0.715865    0.044150
+RandomForestClassifier             surf           3  ...  0.713310    0.055263
+RandomForestClassifier        multisurf           3  ...  0.718360    0.055154
+
+[5 rows x 14 columns]
+---------------------------------------- DecisionTree --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with f_test: 29 features with AUC score in CV: 0.724212715389186 +- 0.0758034416631037 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6080701754385965
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with mutual_info: 29 features with AUC score in CV: 0.7409387997623291 +- 0.05866178390419239 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.5880701754385965
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with reliefF: 31 features with AUC score in CV: 0.7408496732026144 +- 0.02621772212827095 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.668922305764411
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with surf: 23 features with AUC score in CV: 0.7450089126559716 +- 0.06121664744897587 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.7231077694235589
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with multisurf: 28 features with AUC score in CV: 0.7386809269162209 +- 0.032323095793287585 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6872180451127821
+                       Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                                ...                      
+DecisionTreeClassifier           f_test          29  ...  0.724213    0.075803
+DecisionTreeClassifier      mutual_info          29  ...  0.740939    0.058662
+DecisionTreeClassifier          reliefF          31  ...  0.740850    0.026218
+DecisionTreeClassifier             surf          23  ...  0.745009    0.061217
+DecisionTreeClassifier        multisurf          28  ...  0.738681    0.032323
+
+[5 rows x 14 columns]
+---------------------------------------- GaussianNB --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for GaussianNB with f_test: 30 features with AUC score in CV: 0.7467320261437909 +- 0.07985168320881753 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6330325814536342
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for GaussianNB with mutual_info: 29 features with AUC score in CV: 0.7494058229352347 +- 0.08328594986356155 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6159398496240601
+---------------------------------------- reliefF --------------------------------------------------

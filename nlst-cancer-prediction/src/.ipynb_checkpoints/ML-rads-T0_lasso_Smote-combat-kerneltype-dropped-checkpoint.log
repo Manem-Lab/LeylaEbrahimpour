@@ -1,0 +1,13 @@
+Shape of X_test after Lasso =  (208, 17)
+Shape of X_train after Lasso =  (254, 17)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 17)
+---------------------------------------- DecisionTree --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with f_test: 13 features using adasyn with AUC score in CV: 0.7517231134878194 +- 0.030540874526420302 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6191979949874686
+---------------------------------------- mutual_info --------------------------------------------------

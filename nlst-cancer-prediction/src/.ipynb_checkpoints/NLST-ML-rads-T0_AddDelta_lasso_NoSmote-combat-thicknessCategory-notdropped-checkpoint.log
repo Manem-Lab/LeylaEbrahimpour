@@ -1,0 +1,22 @@
+Shape of X_test after Lasso =  (208, 58)
+Shape of X_train after Lasso =  (254, 58)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 50)
+---------------------------------------- RandomForest --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for RandomForestClassifier with f_test: 46 features with AUC score in CV: 0.8333927510398098 +- 0.06676456515744929 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7861654135338345
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for RandomForestClassifier with mutual_info: 30 features with AUC score in CV: 0.836423054070113 +- 0.04167532687709837 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7682205513784461
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for RandomForestClassifier with reliefF: 36 features with AUC score in CV: 0.836423054070113 +- 0.0768086419804087 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7757393483709274
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for RandomForestClassifier with surf: 30 features with AUC score in CV: 0.836423054070113 +- 0.05577123306582162 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7690726817042606
+---------------------------------------- multisurf --------------------------------------------------

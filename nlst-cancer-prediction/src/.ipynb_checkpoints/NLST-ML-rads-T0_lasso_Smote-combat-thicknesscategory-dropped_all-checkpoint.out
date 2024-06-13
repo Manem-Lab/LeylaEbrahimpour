@@ -1,0 +1,11 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+/var/spool/slurmd/job713963/slurm_script: line 28: 158300 Killed                  python -u ML-CancerPrediction_final_Smote-afterLasso.py > NLST-ML-rads-T0_lasso_Smote-combat-thicknesscategory-dropped_all.log
+slurmstepd: error: Detected 1 oom_kill event in StepId=713963.batch. Some of the step tasks have been OOM Killed.

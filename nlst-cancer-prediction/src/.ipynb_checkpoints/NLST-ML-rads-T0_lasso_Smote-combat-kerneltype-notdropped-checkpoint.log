@@ -1,0 +1,16 @@
+Shape of X_test after Lasso =  (208, 14)
+Shape of X_train after Lasso =  (254, 14)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 14)
+---------------------------------------- DecisionTree --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with f_test: 6 features using smote with AUC score in CV: 0.7654188948306595 +- 0.0607883647977547 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6663659147869674
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with mutual_info: 7 features using kmeans_smote with AUC score in CV: 0.7510695187165776 +- 0.058248553832653246 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6667167919799499
+---------------------------------------- reliefF --------------------------------------------------

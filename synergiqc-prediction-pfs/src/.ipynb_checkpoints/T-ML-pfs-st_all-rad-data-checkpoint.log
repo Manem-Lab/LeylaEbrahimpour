@@ -1,0 +1,7 @@
+number of features =  (935, 1235)
+number of features =  (935, 1235)
+number of non-constant features =  (935, 1235)
+shape of X_test after Lasso =  (281, 15)
+shape of X_train after Lasso =  (654, 15)
+shape of y_test after Lasso =  (281,)
+No. of features after Lasso =  15

@@ -1,0 +1,10 @@
+Shape of X_test after Lasso =  (207, 31)
+Shape of X_train after Lasso =  (250, 31)
+Shape of y after Lasso =  (207,)
+number of positive_train =  85
+number of negative_train =  165
+number of positive_test =  74
+number of negative_test =  133
+range(3, 31)
+---------------------------------------- RandomForest --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------

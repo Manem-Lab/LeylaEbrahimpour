@@ -1,0 +1,8 @@
+/var/spool/slurmd/job501826/slurm_script: line 12: module: command not found
+/var/spool/slurmd/job501826/slurm_script: line 13: module: command not found
+venv activated
+call python script next
+Traceback (most recent call last):
+  File "ML-delta-PFS-all-clinical.py", line 1, in <module>
+    import pandas as pd
+ImportError: No module named pandas

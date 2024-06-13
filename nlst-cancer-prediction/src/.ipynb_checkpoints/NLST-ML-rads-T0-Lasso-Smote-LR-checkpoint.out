@@ -1,0 +1,10 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+python: can't open file '/home/ulaval.ca/lesee/projects/Project-NLST/src/ML-CancerPrediction_final_Smote-afterLasso-LR.py': [Errno 2] No such file or directory

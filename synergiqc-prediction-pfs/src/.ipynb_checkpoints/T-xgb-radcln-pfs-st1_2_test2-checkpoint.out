@@ -1,0 +1,56 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+Traceback (most recent call last):
+  File "/home/ulaval.ca/lesee/projects/Project2-synergiqc/PFS/src/ML-T-PFS-XGB-clinical-test2.py", line 323, in <module>
+    model_selected.fit(X_train_final, y_train)
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/sklearn.py", line 988, in fit
+    train_dmatrix, evals = _wrap_evaluation_matrices(
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/sklearn.py", line 448, in _wrap_evaluation_matrices
+    train_dmatrix = create_dmatrix(
+                    ^^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/sklearn.py", line 903, in _create_dmatrix
+    return QuantileDMatrix(
+           ^^^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 1386, in __init__
+    self._init(
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 1445, in _init
+    it.reraise()
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 488, in reraise
+    raise exc  # pylint: disable=raising-bad-type
+    ^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 469, in _handle_exception
+    return fn()
+           ^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 534, in <lambda>
+    return self._handle_exception(lambda: self.next(input_data), 0)
+                                          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/data.py", line 1185, in next
+    input_data(**self.kwargs)
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 528, in input_data
+    self.proxy.set_info(
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 833, in set_info
+    self.feature_names = feature_names
+    ^^^^^^^^^^^^^^^^^^
+  File "/home/ulaval.ca/lesee/.local/lib/python3.11/site-packages/xgboost/core.py", line 1155, in feature_names
+    raise ValueError('feature_names must be unique')
+ValueError: feature_names must be unique

@@ -1,0 +1,88 @@
+Shape of X_test after Lasso =  (208, 53)
+Shape of X_train after Lasso =  (254, 53)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 50)
+---------------------------------------- DecisionTree --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with f_test: 37 features with AUC score in CV: 0.8560606060606061 +- 0.04758807474785824 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6410526315789473
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with mutual_info: 44 features with AUC score in CV: 0.8532976827094474 +- 0.028329630932824926 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6485714285714287
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with reliefF: 42 features with AUC score in CV: 0.8538918597742127 +- 0.025919608147630734 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6456641604010026
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with surf: 19 features with AUC score in CV: 0.8394236482471777 +- 0.06387216899540696 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6389974937343359
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with multisurf: 20 features with AUC score in CV: 0.8531491384432559 +- 0.06827632263369769 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.643107769423559
+                       Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                                ...                      
+DecisionTreeClassifier           f_test          37  ...  0.856061    0.047588
+DecisionTreeClassifier      mutual_info          44  ...  0.853298    0.028330
+DecisionTreeClassifier          reliefF          42  ...  0.853892    0.025920
+DecisionTreeClassifier             surf          19  ...  0.839424    0.063872
+DecisionTreeClassifier        multisurf          20  ...  0.853149    0.068276
+
+[5 rows x 14 columns]
+---------------------------------------- GaussianNB --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for GaussianNB with f_test: 41 features with AUC score in CV: 0.8340463458110516 +- 0.042614799944502214 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6603508771929825
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for GaussianNB with mutual_info: 33 features with AUC score in CV: 0.8311051693404634 +- 0.047004438406004954 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6577944862155387
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for GaussianNB with reliefF: 33 features with AUC score in CV: 0.8395127748068925 +- 0.04811280677646647 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6444611528822055
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for GaussianNB with surf: 21 features with AUC score in CV: 0.8282531194295901 +- 0.047518416880263245 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6444611528822055
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for GaussianNB with multisurf: 25 features with AUC score in CV: 0.8341354723707666 +- 0.04655990587759325 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.6444611528822055
+           Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                    ...                      
+GaussianNB           f_test          41  ...  0.834046    0.042615
+GaussianNB      mutual_info          33  ...  0.831105    0.047004
+GaussianNB          reliefF          33  ...  0.839513    0.048113
+GaussianNB             surf          21  ...  0.828253    0.047518
+GaussianNB        multisurf          25  ...  0.834135    0.046560
+
+[5 rows x 14 columns]
+---------------------------------------- SVC --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for SVC with f_test: 40 features with AUC score in CV: 0.8803624480095069 +- 0.03381822850378866 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.6856641604010025
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for SVC with mutual_info: 48 features with AUC score in CV: 0.8720439691027927 +- 0.016905512230661165 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.7039598997493735
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for SVC with reliefF: 48 features with AUC score in CV: 0.8806001188354129 +- 0.028697798822627147 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.6789974937343358
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for SVC with surf: 49 features with AUC score in CV: 0.8720439691027927 +- 0.027805740863685934 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.6969423558897244
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for SVC with multisurf: 49 features with AUC score in CV: 0.8863339275103981 +- 0.034186797264256163 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.6998496240601504
+      Selection Method  n_features  accuracy  ...  auc_test    auc_cv  std_auc_cv
+Model                                         ...                                
+SVC             f_test          40  0.735577  ...  0.685664  0.880362    0.033818
+SVC        mutual_info          48  0.740385  ...  0.703960  0.872044    0.016906
+SVC            reliefF          48  0.730769  ...  0.678997  0.880600    0.028698
+SVC               surf          49  0.750000  ...  0.696942  0.872044    0.027806
+SVC          multisurf          49  0.750000  ...  0.699850  0.886334    0.034187
+
+[5 rows x 14 columns]
+---------------------------------------- MLP --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for MLPClassifier with f_test: 47 features with AUC score in CV: 0.9035650623885918 +- 0.024985021933376563 
+AUC score on Validation dataset for the best scored trained model for MLPClassifier : 0.703609022556391
+---------------------------------------- mutual_info --------------------------------------------------

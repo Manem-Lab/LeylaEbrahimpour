@@ -1,0 +1,19 @@
+Shape of X_test after Lasso =  (208, 16)
+Shape of X_train after Lasso =  (254, 16)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 16)
+---------------------------------------- Kneighbors --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for KNeighborsClassifier with f_test: 15 features using smote with AUC score in CV: 0.7418300653594772 +- 0.0714235680817197 
+AUC score on Validation dataset for the best scored trained model for KNeighborsClassifier : 0.635438596491228
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for KNeighborsClassifier with mutual_info: 15 features using borderline_smote with AUC score in CV: 0.7519013666072489 +- 0.04787961225734282 
+AUC score on Validation dataset for the best scored trained model for KNeighborsClassifier : 0.6604010025062657
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for KNeighborsClassifier with reliefF: 13 features using borderline_smote with AUC score in CV: 0.7404040404040404 +- 0.06336088419054753 
+AUC score on Validation dataset for the best scored trained model for KNeighborsClassifier : 0.6470676691729323
+---------------------------------------- surf --------------------------------------------------

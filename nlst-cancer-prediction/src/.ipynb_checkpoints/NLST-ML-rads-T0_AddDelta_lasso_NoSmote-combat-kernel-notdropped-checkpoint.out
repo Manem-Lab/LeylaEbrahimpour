@@ -1,0 +1,5 @@
+/var/spool/slurmd/job713081/slurm_script: line 18: module: command not found
+/var/spool/slurmd/job713081/slurm_script: line 19: module: command not found
+venv activated
+call python script next
+/var/spool/slurmd/job713081/slurm_script: line 28: python: command not found

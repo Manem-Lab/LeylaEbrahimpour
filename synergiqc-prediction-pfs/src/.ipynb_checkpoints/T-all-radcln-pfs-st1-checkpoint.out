@@ -1,0 +1,10 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+slurmstepd: error: *** JOB 501580 ON ul-val-pr-cpu06 CANCELLED AT 2023-10-17T22:54:24 ***

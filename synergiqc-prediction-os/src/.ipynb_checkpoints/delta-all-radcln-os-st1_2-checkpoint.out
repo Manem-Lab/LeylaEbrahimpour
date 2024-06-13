@@ -1,0 +1,11 @@
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+The following have been reloaded with a version change:
+  1) python/3.9.6 => python/3.11.2
+
+venv activated
+call python script next
+/var/spool/slurmd/job501761/slurm_script: line 22: 418405 Killed                  python -u ML-delta-OS-all-clinical.py > delta-all-radcln-os-st1_2.log
+slurmstepd: error: Detected 1 oom_kill event in StepId=501761.batch. Some of the step tasks have been OOM Killed.

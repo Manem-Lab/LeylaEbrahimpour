@@ -1,0 +1,8 @@
+/var/spool/slurmd/job502718/slurm_script: line 12: module: command not found
+/var/spool/slurmd/job502718/slurm_script: line 13: module: command not found
+venv activated
+call python script next
+  File "ML-T-OS-all-test.py", line 310
+    **************************************************************        
+     ^
+SyntaxError: invalid syntax

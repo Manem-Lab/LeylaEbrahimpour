@@ -1,0 +1,110 @@
+Shape of X_test after Lasso =  (208, 31)
+Shape of X_train after Lasso =  (254, 31)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 31)
+---------------------------------------- DecisionTree --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with f_test: 18 features using smote with AUC score in CV: 0.8283422459893048 +- 0.027588089657583113 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.7352380952380954
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with mutual_info: 24 features using smote with AUC score in CV: 0.8326500297088533 +- 0.04471469621615818 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.6909774436090226
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with reliefF: 25 features using smote with AUC score in CV: 0.8367201426024955 +- 0.03476004387092981 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.7289223057644111
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with surf: 25 features using smote with AUC score in CV: 0.8225193107546047 +- 0.027307333283360498 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.7280701754385964
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for DecisionTreeClassifier with multisurf: 12 features using smote with AUC score in CV: 0.8320261437908496 +- 0.019902137954548704 
+AUC score on Validation dataset for the best scored trained model for DecisionTreeClassifier : 0.766516290726817
+                       Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                                ...                      
+DecisionTreeClassifier           f_test          18  ...  0.828342    0.027588
+DecisionTreeClassifier      mutual_info          24  ...  0.832650    0.044715
+DecisionTreeClassifier          reliefF          25  ...  0.836720    0.034760
+DecisionTreeClassifier             surf          25  ...  0.822519    0.027307
+DecisionTreeClassifier        multisurf          12  ...  0.832026    0.019902
+
+[5 rows x 15 columns]
+---------------------------------------- GaussianNB --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for GaussianNB with f_test: 27 features using smote with AUC score in CV: 0.863220439691028 +- 0.034476020163351856 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.7890726817042606
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for GaussianNB with mutual_info: 24 features using smote with AUC score in CV: 0.8599524658348189 +- 0.04136571366937667 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.7919799498746867
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for GaussianNB with reliefF: 27 features using smote with AUC score in CV: 0.8602792632204398 +- 0.033326474701706056 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.7824060150375941
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for GaussianNB with surf: 27 features using smote with AUC score in CV: 0.8573380867498516 +- 0.03570611150286513 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.7786466165413535
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for GaussianNB with multisurf: 13 features using smote with AUC score in CV: 0.8573380867498516 +- 0.022396928911326604 
+AUC score on Validation dataset for the best scored trained model for GaussianNB : 0.7711278195488722
+           Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                    ...                      
+GaussianNB           f_test          27  ...  0.863220    0.034476
+GaussianNB      mutual_info          24  ...  0.859952    0.041366
+GaussianNB          reliefF          27  ...  0.860279    0.033326
+GaussianNB             surf          27  ...  0.857338    0.035706
+GaussianNB        multisurf          13  ...  0.857338    0.022397
+
+[5 rows x 15 columns]
+---------------------------------------- SVC --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for SVC with f_test: 30 features using smote with AUC score in CV: 0.8778371954842543 +- 0.03213525783174469 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.7338847117794486
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for SVC with mutual_info: 29 features using smote with AUC score in CV: 0.8837195484254308 +- 0.03561574843955637 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.7347368421052632
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for SVC with reliefF: 30 features using smote with AUC score in CV: 0.8777480689245396 +- 0.03070593590908405 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.7451629072681705
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for SVC with surf: 29 features using smote with AUC score in CV: 0.87825311942959 +- 0.03584993306489118 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.7555889724310776
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for SVC with multisurf: 29 features using smote with AUC score in CV: 0.8837195484254308 +- 0.03561574843955637 
+AUC score on Validation dataset for the best scored trained model for SVC : 0.7347368421052632
+      Selection Method  n_features balancing  ...  auc_test    auc_cv  std_auc_cv
+Model                                         ...                                
+SVC             f_test          30     smote  ...  0.733885  0.877837    0.032135
+SVC        mutual_info          29     smote  ...  0.734737  0.883720    0.035616
+SVC            reliefF          30     smote  ...  0.745163  0.877748    0.030706
+SVC               surf          29     smote  ...  0.755589  0.878253    0.035850
+SVC          multisurf          29     smote  ...  0.734737  0.883720    0.035616
+
+[5 rows x 15 columns]
+---------------------------------------- RandomForest --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+Best number of feautures for RandomForestClassifier with f_test: 22 features using smote with AUC score in CV: 0.8510398098633392 +- 0.03296563753783129 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7752380952380953
+---------------------------------------- mutual_info --------------------------------------------------
+Best number of feautures for RandomForestClassifier with mutual_info: 29 features using smote with AUC score in CV: 0.8476827094474153 +- 0.041513655202876906 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7885714285714286
+---------------------------------------- reliefF --------------------------------------------------
+Best number of feautures for RandomForestClassifier with reliefF: 23 features using smote with AUC score in CV: 0.8421271538918598 +- 0.031845812092402545 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7552380952380953
+---------------------------------------- surf --------------------------------------------------
+Best number of feautures for RandomForestClassifier with surf: 13 features using smote with AUC score in CV: 0.8449792038027333 +- 0.047366534487965684 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7619047619047619
+---------------------------------------- multisurf --------------------------------------------------
+Best number of feautures for RandomForestClassifier with multisurf: 10 features using smote with AUC score in CV: 0.8539809863339276 +- 0.038451795863136504 
+AUC score on Validation dataset for the best scored trained model for RandomForestClassifier : 0.7723308270676692
+                       Selection Method  n_features  ...    auc_cv  std_auc_cv
+Model                                                ...                      
+RandomForestClassifier           f_test          22  ...  0.851040    0.032966
+RandomForestClassifier      mutual_info          29  ...  0.847683    0.041514
+RandomForestClassifier          reliefF          23  ...  0.842127    0.031846
+RandomForestClassifier             surf          13  ...  0.844979    0.047367
+RandomForestClassifier        multisurf          10  ...  0.853981    0.038452
+
+[5 rows x 15 columns]
+---------------------------------------- MLP --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------

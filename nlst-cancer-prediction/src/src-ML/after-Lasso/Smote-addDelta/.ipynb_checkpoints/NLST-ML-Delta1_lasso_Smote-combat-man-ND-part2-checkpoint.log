@@ -1,0 +1,3430 @@
+Shape of X_test after Lasso =  (208, 38)
+Shape of X_train after Lasso =  (254, 38)
+Shape of y after Lasso =  (208,)
+number of positive_train =  86
+number of negative_train =  168
+number of positive_test =  75
+number of negative_test =  133
+range(3, 30)
+---------------------------------------- XGBoost --------------------------------------------------
+---------------------------------------- f_test --------------------------------------------------
+[12:03:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:03:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:42] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:43] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:44] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:45] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:46] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:47] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:48] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:49] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:50] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:51] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:52] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:53] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:54] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:55] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:56] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:57] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:58] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:04:59] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:00] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:01] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:02] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:03] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:04] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:05] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:06] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:07] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:08] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:09] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:10] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:11] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:12] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:13] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:14] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:15] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:16] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:17] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:18] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:19] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:20] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:21] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:22] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:23] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:24] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:25] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:26] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:27] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:28] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:29] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:30] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:31] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:32] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:33] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:34] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:35] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:36] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:37] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:38] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:39] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:40] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
+[12:05:41] WARNING: /home/coulombc/wheels_builder/tmp.11693/python-3.11/xgboost/src/learner.cc:767: 
+Parameters: { "algorithm" } are not used.
+
